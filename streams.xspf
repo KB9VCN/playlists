@@ -1,0 +1,1756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <trackList>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>KALX Berkeley CA MP3 128</annotation>
+      <info>https://kalx.berkeley.edu/</info>
+      <!-- https://stream.kalx.berkeley.edu:8443/kalx-128.mp3 -->
+      <location>http://stream.kalx.berkeley.edu:8000/kalx-128.mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>KBIA Columbia MO MP3 64</annotation>
+      <info>https://www.kbia.org/</info>
+      <location>http://playerservices.streamtheworld.com/api/livestream-redirect/KBIAFM.mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>KBIA-2 Classical MP3 64</annotation>
+      <info>https://www.kbia.org/</info>
+      <location>http://playerservices.streamtheworld.com/api/livestream-redirect/KBIAHD2.mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>KBIA-3 XPoNential MP3 64</annotation>
+      <info>https://www.kbia.org/</info>
+      <location>http://playerservices.streamtheworld.com/api/livestream-redirect/KBIAHD3.mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>KCMP Minnesota The Current MP3 128</annotation>
+      <info>https://www.thecurrent.org/</info>
+      <location>http://current.stream.publicradio.org/kcmp.mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>KCRW Santa Monica CA MP3 192</annotation>
+      <info>https://kcrw.com/</info>
+      <location>http://streams.kcrw.com/kcrw_mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>KCRW Eclectic 24 MP3 192</annotation>
+      <info>https://kcrw.com/</info>
+      <location>http://streams.kcrw.com/e24_mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>KCRW News 24 MP3 192</annotation>
+      <info>https://kcrw.com/</info>
+      <location>http://streams.kcrw.com/news24_mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>KEXP Seattle WA MP3 128</annotation>
+      <info>https://kexp.org/</info>
+      <location>http://kexp-mp3-128.streamguys1.com/kexp128.mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>KMOX St Louis MO NewsRadio AAC 64</annotation>
+      <info>https://www.audacy.com/kmox</info>
+      <location>http://stream.abacast.net/direct/audacy-kmoxamaac-imc</location>
+      <location>http://live.amperwave.net/direct/audacy-kmoxamaac-imc</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>KMSU Mankato MN MP3 128</annotation>
+      <info>https://mankato.mnsu.edu/kmsu-radio</info>
+      <location>http://icecast.mnsu.edu:8000/kmsu</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>KOZT Fort Bragg CA The Coast AAC 64</annotation>
+      <info>https://www.kozt.com/</info>
+      <location>http://live.amperwave.net/direct/caradio-koztfmaac-ibc3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>KOZT Fort Bragg CA The Coast MP3 64</annotation>
+      <info>https://www.kozt.com/</info>
+      <location>http://live.amperwave.net/direct/caradio-koztfmmp3-ibc3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>KPNT St Louis MO The Point AAC 64</annotation>
+      <info>https://www.1057thepoint.com/</info>
+      <location>http://playerservices.streamtheworld.com/api/livestream-redirect/KPNTFMAAC.aac</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>KWMU St Louis MO MP3 64</annotation>
+      <info>https://www.stlpr.org/</info>
+      <location>http://kwmu.streamguys1.com/kwmu1</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>KWMU-2 Jazz MP3 128</annotation>
+      <info>https://www.stlpr.org/</info>
+      <location>http://kwmu.streamguys1.com/jazz-128</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>KWMU-3 Classical MP3 128</annotation>
+      <info>https://www.stlpr.org/</info>
+      <location>http://kwmu.streamguys1.com/kwmu3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>KXT Dallas TX MP3 128</annotation>
+      <info>https://kxt.org/</info>
+      <location>http://kera-ice.streamguys.us/kxtlive128</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>KZSU Stanford CA AAC 48</annotation>
+      <info>https://kzsu.stanford.edu/</info>
+      <location>http://kzsu-streams.stanford.edu:80/kzsu-1-48.aac</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>KZSU Stanford CA MP3 128</annotation>
+      <info>https://kzsu.stanford.edu/</info>
+      <location>http://kzsu-streams.stanford.edu:80/kzsu-1-128.mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>WBEZ Chicago IL MP3 128</annotation>
+      <info>https://www.wbez.org/</info>
+      <location>http://stream.wbez.org/wbez128.mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>WBEZ-2 Vocalo MP3 128</annotation>
+      <info>https://www.wbez.org/</info>
+      <location>http://stream.wbez.org/vocalo128</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>WCBU Peoria IL MP3 128</annotation>
+      <info>https://www.wcbu.org/</info>
+      <location>http://playerservices.streamtheworld.com/api/livestream-redirect/WCBUFM.mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>WCBU-2 Classical 24 MP3 128</annotation>
+      <info>https://www.wcbu.org/</info>
+      <location>http://playerservices.streamtheworld.com/api/livestream-redirect/WCBUFM_CLASSICAL.mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>WDBR Springfield IL AAC 32</annotation>
+      <info>https://www.wdbr.com/</info>
+      <location>http://live.amperwave.net/direct/saga-wdbrfmaac-ibc1</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>WDBR-2 The Outlaw AAC 32</annotation>
+      <info>https://www.1011theoutlaw.com/</info>
+      <location>http://live.amperwave.net/direct/saga-wdbrhd2aac-imc</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>WDBR-3 Pure Oldies AAC 32</annotation>
+      <info>https://www.pureoldies1075.com/</info>
+      <location>http://live.amperwave.net/direct/saga-wdbrhd3aac-imc</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>WDBR-4 Rewind AAC 32</annotation>
+      <info>https://myrewind935.com/</info>
+      <location>http://live.amperwave.net/direct/saga-wdbrhd4aac-ibc1</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>WDBX Carbondale IL MP3 192</annotation>
+      <info>https://www.wdbx.org/</info>
+      <location>http://stream.pacificaservice.org:8000/wdbx</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>WEFT Champaign IL MP3 128</annotation>
+      <info>https://www.weft.org/</info>
+      <location>http://weft.broadcasttool.stream/stream</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>WESN Bloomington IL Wesleyan AAC 64</annotation>
+      <info>https://wesn.org/</info>
+      <location>http://streams.radiomast.io/9446a7ef-e0a9-43b2-b34c-6e8a6bea9d58</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>WEW St Louis MO AAC 48</annotation>
+      <info>http://www.wewradio.com/</info>
+      <location>http://wew.birach.com:9008/</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>WFMU Jersey City NJ AAC 128</annotation>
+      <info>https://www.wfmu.org/</info>
+      <location>http://stream1.wfmu.org/freeform-high.aac</location>
+      <location>http://stream2.wfmu.org/freeform-high.aac</location>
+      <location>http://stream3.wfmu.org/freeform-high.aac</location>
+      <location>http://stream0.wfmu.org/freeform-high.aac</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>WFMU Jersey City NJ MP3 128</annotation>
+      <info>https://www.wfmu.org/</info>
+      <location>http://stream1.wfmu.org/freeform-128k</location>
+      <location>http://stream2.wfmu.org/freeform-128k</location>
+      <location>http://stream3.wfmu.org/freeform-128k</location>
+      <location>http://stream0.wfmu.org/freeform-128k</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>WGLT Normal IL AAC 320</annotation>
+      <info>https://www.wglt.org/</info>
+      <location>http://playerservices.streamtheworld.com/api/livestream-redirect/WGLT_NIAAC.aac</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>WGN Chicago IL MP3 64</annotation>
+      <info>https://wgnradio.com/</info>
+      <location>http://live.amperwave.net/direct/wgnam-wgnammp3-ibc2</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>WILL AM Urbana IL AAC 24</annotation>
+      <info>https://will.illinois.edu/</info>
+      <location>http://icecast.will.illinois.edu:8000/WILL-mp3-48</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>WILL FM Urbana IL AAC 24</annotation>
+      <info>https://will.illinois.edu/fm</info>
+      <location>http://icecast.will.illinois.edu:8000/WILLFM-48</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>WILL-2 Illinois Soul AAC 24</annotation>
+      <info>https://will.illinois.edu/illinoissoul</info>
+      <location>http://icecast.will.illinois.edu:8000/WILL-HD2-48</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>WILL Illinois Radio Reader MP3 96</annotation>
+      <info>https://will.illinois.edu/illinoisradioreader</info>
+      <location>http://icecast.will.illinois.edu:8000/WILL-IRR</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>WIUM Macomb IL Tri States Public Radio MP3 56</annotation>
+      <info>https://www.tspr.org/</info>
+      <location>http://playerservices.streamtheworld.com/api/livestream-redirect/WIUMFM_SC</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>WIUM-2 UnderCurrents MP3 56</annotation>
+      <info>https://www.undercurrentsradio.net/</info>
+      <location>http://playerservices.streamtheworld.com/api/livestream-redirect/WIUMHD2_SC</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>WIUM-VKC Knox College MP3 56</annotation>
+      <info>http://907wvkc.wixsite.com/thewvkc</info>
+      <location>http://playerservices.streamtheworld.com/api/livestream-redirect/VKC_SC</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>WJFF Jeffersonville NY MP3 64</annotation>
+      <info>https://wjffradio.org/</info>
+      <location>http://stream.pacificaservice.org:8000/wjff</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>WKYU Bowling Green KY MP3 128</annotation>
+      <info>https://www.wkyufm.org/</info>
+      <location>http://dal-wku-stream-1.neighborhoodca.com:8000/stream</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>WKYU Classical MP3 128</annotation>
+      <info>https://www.wkyufm.org/</info>
+      <location>http://dal-wku-stream-2.neighborhoodca.com:8000/xstream</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>WLTW New York City Lite FM AAC 48</annotation>
+      <info>https://litefm.iheart.com/</info>
+      <location>http://stream.revma.ihrhls.com/zc1477</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>WLUW Chicago IL Loyola MP3 128</annotation>
+      <info>https://wluw.org/</info>
+      <location>http://wluw.streamguys1.com/stream.mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>WMAY Springfield IL AAC 64</annotation>
+      <info>https://wcmspi.com/wmay</info>
+      <location>http://playerservices.streamtheworld.com/api/livestream-redirect/WMAYFMAAC.aac</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>WMAY Springfield IL MP3 96</annotation>
+      <info>https://wcmspi.com/wmay</info>
+      <location>http://playerservices.streamtheworld.com/api/livestream-redirect/WMAYFM.mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>WNNS Springfield IL MP3 96</annotation>
+      <info>https://wcmspi.com/wnns</info>
+      <location>http://playerservices.streamtheworld.com/api/livestream-redirect/WNNSFM.mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>WPCD Champaign IL Parkland AAC 32</annotation>
+      <info>https://wpcd.parkland.edu</info>
+      <location>http://ice24.securenetsystems.net/WPCD</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>WQLZ Springfield IL MP3 96</annotation>
+      <info>https://wcmspi.com/wqlz</info>
+      <location>http://playerservices.streamtheworld.com/api/livestream-redirect/WQLZFM.mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>WRFR-LP Rockland ME MP3 192</annotation>
+      <info>https://www.wrfr.org/</info>
+      <location>http://s2.stationplaylist.com:7028/listen.mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>WTAX Springfield IL MP3 64</annotation>
+      <info>https://capitolcitynow.com/</info>
+      <location>http://live.amperwave.net/direct/saga-wtaxammp3-ibc1</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>WUIS Springfield IL MP3 56</annotation>
+      <info>https://www.nprillinois.org/</info>
+      <location>http://war.streamguys1.com:7780/wuis.mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>WUIS-2 Classic MP3 96</annotation>
+      <info>https://www.nprillinois.org/classic-91-9-hd2</info>
+      <location>http://war.streamguys1.com:7780/WUISRIS-2</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>WUIS-3 The X MP3 96</annotation>
+      <info>https://www.nprillinois.org/the-x</info>
+      <location>http://war.streamguys1.com:7780/WUISRIS-3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>WXPN Philadelphia PA MP3 128</annotation>
+      <info>https://xpn.org/</info>
+      <location>http://wxpnhi.xpn.org/xpnhi</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>WXPN-2 XPoNential Radio MP3 128</annotation>
+      <info>http://xponentialradio.org/</info>
+      <location>http://xpn2hi.xpn.org/xpn2hi</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>WYMG Springfield IL MP3 64</annotation>
+      <info>https://wymg.com/</info>
+      <location>http://live.amperwave.net/direct/saga-wymgfmmp3-ibc1</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>WZIM Normal IL Magic 80s To Now AAC 56</annotation>
+      <info>https://www.magic995fm.com/</info>
+      <location>http://ice23.securenetsystems.net/WZIM</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>WZND Normal IL Fuzed Radio MP3 128</annotation>
+      <info>https://wznd.com/</info>
+      <location>http://playerservices.streamtheworld.com/api/livestream-redirect/WZNDFM.mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Afterhours.FM MP3 192</annotation>
+      <info>https://forums.ah.fm/</info>
+      <location>http://us.ah.fm/live</location>
+      <location>http://relay.ah.fm:8000/live</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>aNONradio MP3 192</annotation>
+      <info>https://anonradio.net/</info>
+      <location>http://anonradio.net:8000/anonradio</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>BBC World Service Online MP3 56</annotation>
+      <info>https://www.bbc.com/audio/play/live/bbc_world_service</info>
+      <location>http://stream.live.vc.bbcmedia.co.uk/bbc_world_service</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Beyond Radio MP3 128</annotation>
+      <info>https://www.beyond.radio/</info>
+      <location>http://stream.beyondradio.co.uk:8000/med</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Brainrock MP3 128</annotation>
+      <info>https://www.brainrockradio.com/</info>
+      <location>http://streaming.live365.com/a97770</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Car Tunes Radio MP3 160</annotation>
+      <info>https://cartunesradio.com/</info>
+      <location>http://198.199.71.224:5000/cartunes</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>CBC Radio 1 CBLA MP3 128</annotation>
+      <info>https://www.cbc.ca/radio</info>
+      <location>http://playerservices.streamtheworld.com/api/livestream-redirect/CBLAFM_CBC.mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Dementia Radio MP3 96</annotation>
+      <info>https://dementiaradio.org/</info>
+      <location>http://listen.dementiaradio.org:8027</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Electro Swing Revolution MP3 192</annotation>
+      <info>https://www.electroswing-radio.com/</info>
+      <location>http://streamer.radio.co/s2c3cc784b/listen</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Exclusively The Beatles MP3 128</annotation>
+      <info>https://exclusive.radio/station/472</info>
+      <location>http://streaming.exclusive.radio/er/beatles/icecast.audio</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Exclusively Blondie MP3 128</annotation>
+      <info>https://exclusive.radio/station/75</info>
+      <location>http://streaming.exclusive.radio/er/blondie/icecast.audio</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Exclusively Dave Brubeck MP3 128</annotation>
+      <info>https://exclusive.radio/station/378</info>
+      <location>http://streaming.exclusive.radio/er/davebrubeck/icecast.audio</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Exclusively Kate Bush MP3 128</annotation>
+      <info>https://exclusive.radio/station/350</info>
+      <location>http://streaming.exclusive.radio/er/katebush/icecast.audio</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Exclusively The Cure MP3 128</annotation>
+      <info>https://exclusive.radio/station/438</info>
+      <location>http://streaming.exclusive.radio/er/thecure/icecast.audio</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Exclusively Dire Straits MP3 128</annotation>
+      <info>https://exclusive.radio/station/501</info>
+      <location>http://streaming.exclusive.radio/er/direstraits/icecast.audio</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Exclusively Electric Light Orchestra MP3 128</annotation>
+      <info>https://exclusive.radio/station/104</info>
+      <location>http://streaming.exclusive.radio/er/elo/icecast.audio</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Exclusively Fleetwood Mac MP3 128</annotation>
+      <info>https://exclusive.radio/station/505</info>
+      <location>http://streaming.exclusive.radio/er/fleetwoodmac/icecast.audio</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Exclusively Moody Blues MP3 128</annotation>
+      <info>https://exclusive.radio/station/533</info>
+      <location>http://streaming.exclusive.radio/er/moodyblues/icecast.audio</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Exclusively Pet Shop Boys MP3 128</annotation>
+      <info>https://exclusive.radio/station/449</info>
+      <location>http://streaming.exclusive.radio/er/petshopboys/icecast.audio</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Exclusively Pink Floyd MP3 128</annotation>
+      <info>https://exclusive.radio/station/522</info>
+      <location>http://streaming.exclusive.radio/er/pinkfloyd/icecast.audio</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Exclusively Queen MP3 128</annotation>
+      <info>https://exclusive.radio/station/335</info>
+      <location>http://streaming.exclusive.radio/er/queen/icecast.audio</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Exclusively R.E.M. MP3 128</annotation>
+      <info>https://exclusive.radio/station/435</info>
+      <location>http://streaming.exclusive.radio/er/rem/icecast.audio</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Exclusively Steely Dan MP3 128</annotation>
+      <info>https://exclusive.radio/station/526</info>
+      <location>http://streaming.exclusive.radio/er/steelydan/icecast.audio</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Exclusively Talking Heads MP3 128</annotation>
+      <info>https://exclusive.radio/station/467</info>
+      <location>http://streaming.exclusive.radio/er/talkingheads/icecast.audio</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Exclusively 10cc MP3 128</annotation>
+      <info>https://exclusive.radio/station/34</info>
+      <location>http://streaming.exclusive.radio/er/10cc/icecast.audio</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Exclusively Suzanne Vega MP3 128</annotation>
+      <info>https://exclusive.radio/station/464</info>
+      <location>http://streaming.exclusive.radio/er/suzannevega/icecast.audio</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Feeling Floyd Rock Floyd &amp; Gilmour MP3 192</annotation>
+      <info>https://feelingfloydrock56.blogspot.com/</info>
+      <location>http://5.39.71.39:8007/live</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Feeling Floyd Rock 70s 80s 90s Music MP3 192</annotation>
+      <info>https://feelingfloydrock56.blogspot.com/</info>
+      <location>http://91.121.59.45:8013/live</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Flashback Alternatives MP3 192</annotation>
+      <info>https://flashbackalternatives.com/</info>
+      <location>http://puma.streemlion.com:1220/stream</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Flashback Alternatives AAC 64</annotation>
+      <info>https://flashbackalternatives.com/</info>
+      <location>http://puma.streemlion.com:1230/stream</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Gensokyo Radio MP3 128</annotation>
+      <info>https://gensokyoradio.net/</info>
+      <location>http://stream.gensokyoradio.net:8000/1</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Hunter.FM 80s AAC 64</annotation>
+      <info>https://hunter.fm/80s</info>
+      <location>http://live.hunter.fm/80s_normal</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Hunter.FM LoFi AAC 64</annotation>
+      <info>https://hunter.fm/lofi</info>
+      <location>http://live.hunter.fm/lofi_normal</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Hunter.FM Master AAC 64</annotation>
+      <info>https://hunter.fm/master</info>
+      <location>http://live.hunter.fm/master_normal</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Hunter.FM Pop AAC 64</annotation>
+      <info>https://hunter.fm/pop</info>
+      <location>http://live.hunter.fm/pop_normal</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Hunter.FM Pop2K AAC 64</annotation>
+      <info>https://hunter.fm/pop2k</info>
+      <location>http://live.hunter.fm/pop2k_normal</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Hunter.FM Rock AAC 64</annotation>
+      <info>https://hunter.fm/rock</info>
+      <location>http://live.hunter.fm/rock_normal</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Instrumentals Forever AAC 64</annotation>
+      <info>https://instrumentalsforever.eu/</info>
+      <location>http://quincy.torontocast.com:1925/stream</location>
+      <location>http://quincy.torontocast.com:1920/stream</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Instrumentals Forever MP3 128</annotation>
+      <info>https://instrumentalsforever.eu/</info>
+      <location>http://quincy.torontocast.com:1915/stream</location>
+      <location>http://quincy.torontocast.com:1910/stream</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Jazz Radio Electro Swing MP3 128</annotation>
+      <info>https://www.jazzradio.fr/radio/webradio/17/electro-swing</info>
+      <location>http://jazz-wr04.ice.infomaniak.ch/jazz-wr04-128.mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Jukebox 105.7 KTOJ MP3 128</annotation>
+      <info>https://jukebox1057.com/</info>
+      <location>http://cast1.asurahosting.com/proxy/ktoj/stream</location>
+      <location>http://cast5.asurahosting.com/proxy/ktoj/stream</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Keizerstad 80s MP3 320</annotation>
+      <info>https://keizerstad.nl/</info>
+      <location>http://server-24.stream-server.nl:8800/stream</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Laut.FM Electro Swing MP3 128</annotation>
+      <info>https://laut.fm/electro-swing</info>
+      <location>http://stream.laut.fm/electro-swing</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Laut.FM Surf MP3 128</annotation>
+      <info>https://laut.fm/surf</info>
+      <location>http://stream.laut.fm/surf</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Maxxima MP3 192</annotation>
+      <info>https://maxxima.ch/</info>
+      <location>http://maxxima.mine.nu/</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Memory Lane Radio MP3 192</annotation>
+      <info>https://memorylaneradio.co.uk/</info>
+      <location>http://memorylaneradio.radioca.st/</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Monocle 24 MP3 96</annotation>
+      <info>https://monocle.com/radio</info>
+      <location>http://23543.live.streamtheworld.com/MONOCLE_24.mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Moon Phase Radio Ambient AAC 128</annotation>
+      <info>https://www.moonphaseradio.com/ambient</info>
+      <location>https://cp12.serverse.com/proxy/moonphase/stream2</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Moon Phase Radio Ambient MP3 192</annotation>
+      <info>https://www.moonphaseradio.com/ambient</info>
+      <location>https://cp12.serverse.com/proxy/moonphase/stream</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Moon Phase Radio Chill AAC 128</annotation>
+      <info>https://www.moonphaseradio.com/chill</info>
+      <location>https://dc1.serverse.com/proxy/dnutqhxl/stream2</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Moon Phase Radio Chill MP3 192</annotation>
+      <info>https://www.moonphaseradio.com/chill</info>
+      <location>https://dc1.serverse.com/proxy/dnutqhxl/stream</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Nectarine Demoscene Radio MP3 192</annotation>
+      <info>https://scenestream.net/demovibes</info>
+      <location>http://nectarine.ers35.net:8000/necta192.mp3</location>
+      <location>http://necta.burn.net:8000/nectarine</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Nightride FM MP3 320</annotation>
+      <info>https://nightride.fm/stations?station=nightride</info>
+      <location>http://stream.nightride.fm/nightride.mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Nightride FM Chillsynth MP3 320</annotation>
+      <info>https://nightride.fm/stations?station=chillsynth</info>
+      <location>http://stream.nightride.fm/chillsynth.mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Nightride FM Darksynth MP3 320</annotation>
+      <info>https://nightride.fm/stations?station=darksynth</info>
+      <location>http://stream.nightride.fm/darksynth.mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Nightride FM Datawave MP3 320</annotation>
+      <info>https://nightride.fm/stations?station=datawave</info>
+      <location>http://stream.nightride.fm/datawave.mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Nightride FM EBSM MP3 320</annotation>
+      <info>https://nightride.fm/stations?station=ebsm</info>
+      <location>http://stream.nightride.fm/ebsm.mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Nightride FM Horrorsynth MP3 320</annotation>
+      <info>https://nightride.fm/stations?station=horrorsynth</info>
+      <location>http://stream.nightride.fm/horrorsynth.mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Nightride FM Rekt Network MP3 320</annotation>
+      <info>https://rekt.network/stations?station=rekt</info>
+      <location>http://stream.nightride.fm/rekt.mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Nightride FM Rektory MP3 320</annotation>
+      <info>https://rekt.network/stations?station=rektory</info>
+      <location>http://stream.nightride.fm/rektory.mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Nightride FM Spacesynth MP3 320</annotation>
+      <info>https://nightride.fm/stations?station=spacesynth</info>
+      <location>http://stream.nightride.fm/spacesynth.mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Nightwave Plaza MP3 128</annotation>
+      <info>https://plaza.one/</info>
+      <location>http://radio.plaza.one/mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>No Agenda Global Radio MP3 128</annotation>
+      <info>https://playlist.noagendastream.com/</info>
+      <location>http://listen.noagendastream.com/noagenda</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>NTS Radio 1 MP3 256</annotation>
+      <info>https://www.nts.live/</info>
+      <location>http://stream-relay-geo.ntslive.net/stream</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>NTS Radio 2 MP3 256</annotation>
+      <info>https://www.nts.live/</info>
+      <location>http://stream-relay-geo.ntslive.net/stream2</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>ProgRock.com MP3 192</annotation>
+      <info>https://progrock.com/</info>
+      <location>http://pavo.prostreaming.net:8012/stream</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Pumpkin FM 1940s Radio MP3 128</annotation>
+      <info>https://pumpkinfm.com/1940s-radio-uk-home-service</info>
+      <location>http://65.21.202.84:8392/stream</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Pumpkin FM American Gold MP3 64</annotation>
+      <info>https://pumpkinfm.com/american-gold</info>
+      <location>http://65.21.202.84:8789/stream</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Pumpkin FM BritCom 1 MP3 64</annotation>
+      <info>https://pumpkinfm.com/britcom1-radio-program-guide</info>
+      <location>http://65.21.202.84:8175/stream</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Pumpkin FM BritCom 2 2 MP3 64</annotation>
+      <info>https://pumpkinfm.com/britcom-2-program-schedule</info>
+      <location>http://65.21.202.84:8022/stream</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Pumpkin FM BritCom 3 MP3 64</annotation>
+      <info>https://pumpkinfm.com/britcom-3-program-schedule</info>
+      <location>http://65.21.202.84:8200/stream</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Pumpkin FM Crime Inc MP3 64</annotation>
+      <info>https://pumpkinfm.com/crime-incorporated-schedule</info>
+      <location>http://65.21.202.84:8366/stream</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Pumpkin FM Radio England MP3 64</annotation>
+      <info>https://pumpkinfm.com/radio-britannia-schedule</info>
+      <location>http://65.21.202.84:8431/stream</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Pumpkin FM Malvern Radio JRS MP3 128</annotation>
+      <info>https://pumpkinfm.com/old-time-radio-programs-schedules</info>
+      <location>http://65.21.202.84:8693/stream</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Pumpkin FM Strange Radio MP3 64</annotation>
+      <info>https://pumpkinfm.com/strange-radio-program-schedule</info>
+      <location>http://65.21.202.84:8372/stream</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Pumpkin FM Venture Radio MP3 64</annotation>
+      <info>https://pumpkinfm.com/venture-radio</info>
+      <location>http://65.21.202.84:8378/stream</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Radio Dismuke MP3 24</annotation>
+      <info>https://radiodismuke.com/</info>
+      <location>http://stream2.early1900s.org:8000</location>
+      <location>http://stream1.early1900s.org:8080</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Radio Free Brooklyn MP3 192</annotation>
+      <info>https://radiofreebrooklyn.com/</info>
+      <location>http://us1.internet-radio.com:8155/stream</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Radio Nightingale Classical MP3 128</annotation>
+      <info>https://www.radionightingale.org/</info>
+      <location>http://main.radioriel.org/</location>
+      <location>http://streams.radioriel.org:8010/stream</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Radio Nightingale Dieselpunk MP3 128</annotation>
+      <info>https://www.radionightingale.org/</info>
+      <location>http://dieselpunk.radioriel.org/</location>
+      <location>http://streams.radioriel.org:8040/stream</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Radio Nightingale Folk Music MP3 128</annotation>
+      <info>https://www.radionightingale.org/</info>
+      <location>http://volksmusik.radioriel.org/</location>
+      <location>http://streams.radioriel.org:8060/stream</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Radio Nightingale Ragtime MP3 128</annotation>
+      <info>https://www.radionightingale.org/</info>
+      <location>http://ragtime.radioriel.org/</location>
+      <location>http://streams.radioriel.org:8020/stream</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Radio Nightingale Reverie MP3 128</annotation>
+      <info>https://www.radionightingale.org/</info>
+      <location>http://reverie.radioriel.org/</location>
+      <location>http://streams.radioriel.org:8050/stream</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Radio Nightingale Steampunk MP3 128</annotation>
+      <info>https://www.radionightingale.org/</info>
+      <location>http://steampunk.radioriel.org/</location>
+      <location>http://streams.radioriel.org:8030/stream</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Fantasy Faire Radio (unlisted) MP3 128</annotation>
+      <info>https://www.radionightingale.org/</info>
+      <location>http://fantasyfaire.radioriel.org/</location>
+      <location>http://streams.radioriel.org:8070/stream</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Radio Paradise Main Mix AAC 64</annotation>
+      <info>https://radioparadise.com/listen/channels/main-mix</info>
+      <location>http://stream.radioparadise.com/aac-64</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Radio Paradise Mellow Mix AAC 64</annotation>
+      <info>https://radioparadise.com/listen/channels/mellow-mix</info>
+      <location>http://stream.radioparadise.com/mellow-64</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Radio Paradise Rock Mix AAC 64</annotation>
+      <info>https://radioparadise.com/listen/channels/rock-mix</info>
+      <location>http://stream.radioparadise.com/rock-64</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Radio Paradise Global Mix AAC 64</annotation>
+      <info>https://radioparadise.com/listen/channels/global-mix</info>
+      <location>http://stream.radioparadise.com/global-64</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Radio Paradise Serenity AAC 64</annotation>
+      <info>https://radioparadise.com/listen/channels/serenity</info>
+      <location>http://stream.radioparadise.com/serenity</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Radio Polska Pink Floyd MP3 192</annotation>
+      <info>https://www.radio-polska.pl/pr-pink-floyd</info>
+      <location>http://mp3.polskieradio.pl:8470/</location>
+      <location>http://mp3.polskieradio.pl:8070/</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Radio Seagull MP3 128</annotation>
+      <info>https://radioseagull.com/</info>
+      <location>http://stream.radioseagull.net:8000/seagull</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>The Retro Attic MP3 128</annotation>
+      <info>https://www.retroatticrareoldiesradio.com/</info>
+      <location>http://104.251.122.71:8159/stream</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Retrowave.One Radio MP3 192</annotation>
+      <info>https://retrowave.one/</info>
+      <location>http://85.234.59.191:8000/stream</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Rinse FM MP3 128</annotation>
+      <info>https://rinse.fm/</info>
+      <location>http://admin.stream.rinse.fm/proxy/rinse_uk/stream</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Sector Classical OGG 160</annotation>
+      <info>http://sectorradio.com/nota</info>
+      <location>http://89.223.45.5:8000/nota-160</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Sector Progressive OGG 160</annotation>
+      <info>http://sectorradio.com/</info>
+      <location>http://89.223.45.5:8000/progressive-160</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Sector Space OGG 160</annotation>
+      <info>http://sectorradio.com/space</info>
+      <location>http://89.223.45.5:8000/space-160</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Sector 80s OGG 160</annotation>
+      <info>http://sectorradio.com/geny</info>
+      <location>http://89.223.45.5:8000/geny-160</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Sector 90s OGG 160</annotation>
+      <info>http://sectorradio.com/90</info>
+      <location>http://89.223.45.5:8000/next-160</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Sector 00s OGG 160</annotation>
+      <info>http://sectorradio.com/indigo</info>
+      <location>http://89.223.45.5:8000/indigo-160</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Sector 10s OGG 160</annotation>
+      <info>http://sectorradio.com/zed</info>
+      <location>http://89.223.45.5:8000/zed-160</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Shonan Beach FM 湘南ビーチ MP3 128</annotation>
+      <info>https://www.beachfm.co.jp/</info>
+      <location>http://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>SomaFM Beat Blender MP3 128</annotation>
+      <info>https://somafm.com/beatblender</info>
+      <location>http://ice2.somafm.com/beatblender-128-mp3</location>
+      <location>http://ice3.somafm.com/beatblender-128-mp3</location>
+      <location>http://ice4.somafm.com/beatblender-128-mp3</location>
+      <location>http://ice5.somafm.com/beatblender-128-mp3</location>
+      <location>http://ice6.somafm.com/beatblender-128-mp3</location>
+      <location>http://ice1.somafm.com/beatblender-128-mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>SomaFM Black Rock FM MP3 128</annotation>
+      <info>https://somafm.com/brfm</info>
+      <location>http://ice2.somafm.com/brfm-128-mp3</location>
+      <location>http://ice3.somafm.com/brfm-128-mp3</location>
+      <location>http://ice4.somafm.com/brfm-128-mp3</location>
+      <location>http://ice5.somafm.com/brfm-128-mp3</location>
+      <location>http://ice6.somafm.com/brfm-128-mp3</location>
+      <location>http://ice1.somafm.com/brfm-128-mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>SomaFM Boot Liquor MP3 128</annotation>
+      <info>https://somafm.com/bootliquor</info>
+      <location>http://ice2.somafm.com/bootliquor-128-mp3</location>
+      <location>http://ice3.somafm.com/bootliquor-128-mp3</location>
+      <location>http://ice4.somafm.com/bootliquor-128-mp3</location>
+      <location>http://ice5.somafm.com/bootliquor-128-mp3</location>
+      <location>http://ice6.somafm.com/bootliquor-128-mp3</location>
+      <location>http://ice1.somafm.com/bootliquor-128-mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>SomaFM Bossa Beyond MP3 128</annotation>
+      <info>https://somafm.com/bossa</info>
+      <location>http://ice2.somafm.com/bossa-128-mp3</location>
+      <location>http://ice3.somafm.com/bossa-128-mp3</location>
+      <location>http://ice4.somafm.com/bossa-128-mp3</location>
+      <location>http://ice5.somafm.com/bossa-128-mp3</location>
+      <location>http://ice6.somafm.com/bossa-128-mp3</location>
+      <location>http://ice1.somafm.com/bossa-128-mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>SomaFM Chillits Radio MP3 128</annotation>
+      <info>https://somafm.com/chillits</info>
+      <location>http://ice2.somafm.com/chillits-128-mp3</location>
+      <location>http://ice3.somafm.com/chillits-128-mp3</location>
+      <location>http://ice4.somafm.com/chillits-128-mp3</location>
+      <location>http://ice5.somafm.com/chillits-128-mp3</location>
+      <location>http://ice6.somafm.com/chillits-128-mp3</location>
+      <location>http://ice1.somafm.com/chillits-128-mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>SomaFM Cliqhop IDM MP3 128</annotation>
+      <info>https://somafm.com/cliqhop</info>
+      <location>http://ice2.somafm.com/cliqhop-128-mp3</location>
+      <location>http://ice3.somafm.com/cliqhop-128-mp3</location>
+      <location>http://ice4.somafm.com/cliqhop-128-mp3</location>
+      <location>http://ice5.somafm.com/cliqhop-128-mp3</location>
+      <location>http://ice6.somafm.com/cliqhop-128-mp3</location>
+      <location>http://ice1.somafm.com/cliqhop-128-mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>SomaFM Covers MP3 128</annotation>
+      <info>https://somafm.com/covers</info>
+      <location>http://ice2.somafm.com/covers-128-mp3</location>
+      <location>http://ice3.somafm.com/covers-128-mp3</location>
+      <location>http://ice4.somafm.com/covers-128-mp3</location>
+      <location>http://ice5.somafm.com/covers-128-mp3</location>
+      <location>http://ice6.somafm.com/covers-128-mp3</location>
+      <location>http://ice1.somafm.com/covers-128-mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>SomaFM The Dark Zone MP3 128</annotation>
+      <info>https://somafm.com/darkzone</info>
+      <location>http://ice2.somafm.com/darkzone-128-mp3</location>
+      <location>http://ice3.somafm.com/darkzone-128-mp3</location>
+      <location>http://ice4.somafm.com/darkzone-128-mp3</location>
+      <location>http://ice5.somafm.com/darkzone-128-mp3</location>
+      <location>http://ice6.somafm.com/darkzone-128-mp3</location>
+      <location>http://ice1.somafm.com/darkzone-128-mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>SomaFM Deep Space One MP3 128</annotation>
+      <info>https://somafm.com/deepspaceone</info>
+      <location>http://ice2.somafm.com/deepspaceone-128-mp3</location>
+      <location>http://ice3.somafm.com/deepspaceone-128-mp3</location>
+      <location>http://ice4.somafm.com/deepspaceone-128-mp3</location>
+      <location>http://ice5.somafm.com/deepspaceone-128-mp3</location>
+      <location>http://ice6.somafm.com/deepspaceone-128-mp3</location>
+      <location>http://ice1.somafm.com/deepspaceone-128-mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>SomaFM DEF CON Radio MP3 128</annotation>
+      <info>https://somafm.com/defcon</info>
+      <location>http://ice2.somafm.com/defcon-128-mp3</location>
+      <location>http://ice3.somafm.com/defcon-128-mp3</location>
+      <location>http://ice4.somafm.com/defcon-128-mp3</location>
+      <location>http://ice5.somafm.com/defcon-128-mp3</location>
+      <location>http://ice6.somafm.com/defcon-128-mp3</location>
+      <location>http://ice1.somafm.com/defcon-128-mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>SomaFM Digitalis MP3 128</annotation>
+      <info>https://somafm.com/digitalis</info>
+      <location>http://ice2.somafm.com/digitalis-128-mp3</location>
+      <location>http://ice3.somafm.com/digitalis-128-mp3</location>
+      <location>http://ice4.somafm.com/digitalis-128-mp3</location>
+      <location>http://ice5.somafm.com/digitalis-128-mp3</location>
+      <location>http://ice6.somafm.com/digitalis-128-mp3</location>
+      <location>http://ice1.somafm.com/digitalis-128-mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>SomaFM Doomed MP3 128</annotation>
+      <info>https://somafm.com/doomed</info>
+      <location>http://ice2.somafm.com/doomed-128-mp3</location>
+      <location>http://ice3.somafm.com/doomed-128-mp3</location>
+      <location>http://ice4.somafm.com/doomed-128-mp3</location>
+      <location>http://ice5.somafm.com/doomed-128-mp3</location>
+      <location>http://ice6.somafm.com/doomed-128-mp3</location>
+      <location>http://ice1.somafm.com/doomed-128-mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>SomaFM Drone Zone MP3 128</annotation>
+      <info>https://somafm.com/dronezone</info>
+      <location>http://ice2.somafm.com/dronezone-128-mp3</location>
+      <location>http://ice3.somafm.com/dronezone-128-mp3</location>
+      <location>http://ice4.somafm.com/dronezone-128-mp3</location>
+      <location>http://ice5.somafm.com/dronezone-128-mp3</location>
+      <location>http://ice6.somafm.com/dronezone-128-mp3</location>
+      <location>http://ice1.somafm.com/dronezone-128-mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>SomaFM Dub Step Beyond MP3 128</annotation>
+      <info>https://somafm.com/dubstep</info>
+      <location>http://ice2.somafm.com/dubstep-128-mp3</location>
+      <location>http://ice3.somafm.com/dubstep-128-mp3</location>
+      <location>http://ice4.somafm.com/dubstep-128-mp3</location>
+      <location>http://ice5.somafm.com/dubstep-128-mp3</location>
+      <location>http://ice6.somafm.com/dubstep-128-mp3</location>
+      <location>http://ice1.somafm.com/dubstep-128-mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>SomaFM Fluid MP3 128</annotation>
+      <info>https://somafm.com/fluid</info>
+      <location>http://ice2.somafm.com/fluid-128-mp3</location>
+      <location>http://ice3.somafm.com/fluid-128-mp3</location>
+      <location>http://ice4.somafm.com/fluid-128-mp3</location>
+      <location>http://ice5.somafm.com/fluid-128-mp3</location>
+      <location>http://ice6.somafm.com/fluid-128-mp3</location>
+      <location>http://ice1.somafm.com/fluid-128-mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>SomaFM Folk Forward MP3 128</annotation>
+      <info>https://somafm.com/folkfwd</info>
+      <location>http://ice2.somafm.com/folkfwd-128-mp3</location>
+      <location>http://ice3.somafm.com/folkfwd-128-mp3</location>
+      <location>http://ice4.somafm.com/folkfwd-128-mp3</location>
+      <location>http://ice5.somafm.com/folkfwd-128-mp3</location>
+      <location>http://ice6.somafm.com/folkfwd-128-mp3</location>
+      <location>http://ice1.somafm.com/folkfwd-128-mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>SomaFM Groove Salad MP3 128</annotation>
+      <info>https://somafm.com/groovesalad</info>
+      <location>http://ice2.somafm.com/groovesalad-128-mp3</location>
+      <location>http://ice3.somafm.com/groovesalad-128-mp3</location>
+      <location>http://ice4.somafm.com/groovesalad-128-mp3</location>
+      <location>http://ice5.somafm.com/groovesalad-128-mp3</location>
+      <location>http://ice6.somafm.com/groovesalad-128-mp3</location>
+      <location>http://ice1.somafm.com/groovesalad-128-mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>SomaFM Groove Salad Classic MP3 128</annotation>
+      <info>https://somafm.com/gsclassic</info>
+      <location>http://ice2.somafm.com/gsclassic-128-mp3</location>
+      <location>http://ice3.somafm.com/gsclassic-128-mp3</location>
+      <location>http://ice4.somafm.com/gsclassic-128-mp3</location>
+      <location>http://ice5.somafm.com/gsclassic-128-mp3</location>
+      <location>http://ice6.somafm.com/gsclassic-128-mp3</location>
+      <location>http://ice1.somafm.com/gsclassic-128-mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>SomaFM Heavyweight Reggae MP3 128</annotation>
+      <info>https://somafm.com/reggae</info>
+      <location>http://ice2.somafm.com/reggae-128-mp3</location>
+      <location>http://ice3.somafm.com/reggae-128-mp3</location>
+      <location>http://ice4.somafm.com/reggae-128-mp3</location>
+      <location>http://ice5.somafm.com/reggae-128-mp3</location>
+      <location>http://ice6.somafm.com/reggae-128-mp3</location>
+      <location>http://ice1.somafm.com/reggae-128-mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>SomaFM Illinois Street Lounge MP3 128</annotation>
+      <info>https://somafm.com/illstreet</info>
+      <location>http://ice2.somafm.com/illstreet-128-mp3</location>
+      <location>http://ice3.somafm.com/illstreet-128-mp3</location>
+      <location>http://ice4.somafm.com/illstreet-128-mp3</location>
+      <location>http://ice5.somafm.com/illstreet-128-mp3</location>
+      <location>http://ice6.somafm.com/illstreet-128-mp3</location>
+      <location>http://ice1.somafm.com/illstreet-128-mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>SomaFM The In-Sound MP3 128</annotation>
+      <info>https://somafm.com/insound</info>
+      <location>http://ice2.somafm.com/insound-128-mp3</location>
+      <location>http://ice3.somafm.com/insound-128-mp3</location>
+      <location>http://ice4.somafm.com/insound-128-mp3</location>
+      <location>http://ice5.somafm.com/insound-128-mp3</location>
+      <location>http://ice6.somafm.com/insound-128-mp3</location>
+      <location>http://ice1.somafm.com/insound-128-mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>SomaFM Indie Pop MP3 128</annotation>
+      <info>https://somafm.com/indiepop</info>
+      <location>http://ice2.somafm.com/indiepop-128-mp3</location>
+      <location>http://ice3.somafm.com/indiepop-128-mp3</location>
+      <location>http://ice4.somafm.com/indiepop-128-mp3</location>
+      <location>http://ice5.somafm.com/indiepop-128-mp3</location>
+      <location>http://ice6.somafm.com/indiepop-128-mp3</location>
+      <location>http://ice1.somafm.com/indiepop-128-mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>SomaFM Left Coast 70s MP3 128</annotation>
+      <info>https://somafm.com/seventies</info>
+      <location>http://ice2.somafm.com/seventies-128-mp3</location>
+      <location>http://ice3.somafm.com/seventies-128-mp3</location>
+      <location>http://ice4.somafm.com/seventies-128-mp3</location>
+      <location>http://ice5.somafm.com/seventies-128-mp3</location>
+      <location>http://ice6.somafm.com/seventies-128-mp3</location>
+      <location>http://ice1.somafm.com/seventies-128-mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>SomaFM Lush MP3 128</annotation>
+      <info>https://somafm.com/lush</info>
+      <location>http://ice2.somafm.com/lush-128-mp3</location>
+      <location>http://ice3.somafm.com/lush-128-mp3</location>
+      <location>http://ice4.somafm.com/lush-128-mp3</location>
+      <location>http://ice5.somafm.com/lush-128-mp3</location>
+      <location>http://ice6.somafm.com/lush-128-mp3</location>
+      <location>http://ice1.somafm.com/lush-128-mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>SomaFM Metal Detector MP3 128</annotation>
+      <info>https://somafm.com/metal</info>
+      <location>http://ice2.somafm.com/metal-128-mp3</location>
+      <location>http://ice3.somafm.com/metal-128-mp3</location>
+      <location>http://ice4.somafm.com/metal-128-mp3</location>
+      <location>http://ice5.somafm.com/metal-128-mp3</location>
+      <location>http://ice6.somafm.com/metal-128-mp3</location>
+      <location>http://ice1.somafm.com/metal-128-mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>SomaFM Mission Control MP3 128</annotation>
+      <info>https://somafm.com/missioncontrol</info>
+      <location>http://ice2.somafm.com/missioncontrol-128-mp3</location>
+      <location>http://ice3.somafm.com/missioncontrol-128-mp3</location>
+      <location>http://ice4.somafm.com/missioncontrol-128-mp3</location>
+      <location>http://ice5.somafm.com/missioncontrol-128-mp3</location>
+      <location>http://ice6.somafm.com/missioncontrol-128-mp3</location>
+      <location>http://ice1.somafm.com/missioncontrol-128-mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>SomaFM n5MD Radio MP3 128</annotation>
+      <info>https://somafm.com/n5md</info>
+      <location>http://ice2.somafm.com/n5md-128-mp3</location>
+      <location>http://ice3.somafm.com/n5md-128-mp3</location>
+      <location>http://ice4.somafm.com/n5md-128-mp3</location>
+      <location>http://ice5.somafm.com/n5md-128-mp3</location>
+      <location>http://ice6.somafm.com/n5md-128-mp3</location>
+      <location>http://ice1.somafm.com/n5md-128-mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>SomaFM PopTron MP3 128</annotation>
+      <info>https://somafm.com/poptron</info>
+      <location>http://ice2.somafm.com/poptron-128-mp3</location>
+      <location>http://ice3.somafm.com/poptron-128-mp3</location>
+      <location>http://ice4.somafm.com/poptron-128-mp3</location>
+      <location>http://ice5.somafm.com/poptron-128-mp3</location>
+      <location>http://ice6.somafm.com/poptron-128-mp3</location>
+      <location>http://ice1.somafm.com/poptron-128-mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>SomaFM Secret Agent MP3 128</annotation>
+      <info>https://somafm.com/secretagent</info>
+      <location>http://ice2.somafm.com/secretagent-128-mp3</location>
+      <location>http://ice3.somafm.com/secretagent-128-mp3</location>
+      <location>http://ice4.somafm.com/secretagent-128-mp3</location>
+      <location>http://ice5.somafm.com/secretagent-128-mp3</location>
+      <location>http://ice6.somafm.com/secretagent-128-mp3</location>
+      <location>http://ice1.somafm.com/secretagent-128-mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>SomaFM Seven Inch Soul MP3 128</annotation>
+      <info>https://somafm.com/7soul</info>
+      <location>http://ice2.somafm.com/7soul-128-mp3</location>
+      <location>http://ice3.somafm.com/7soul-128-mp3</location>
+      <location>http://ice4.somafm.com/7soul-128-mp3</location>
+      <location>http://ice5.somafm.com/7soul-128-mp3</location>
+      <location>http://ice6.somafm.com/7soul-128-mp3</location>
+      <location>http://ice1.somafm.com/7soul-128-mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>SomaFM SF in SF MP3 128</annotation>
+      <info>https://somafm.com/sfinsf</info>
+      <location>http://ice2.somafm.com/sfinsf-128-mp3</location>
+      <location>http://ice3.somafm.com/sfinsf-128-mp3</location>
+      <location>http://ice4.somafm.com/sfinsf-128-mp3</location>
+      <location>http://ice5.somafm.com/sfinsf-128-mp3</location>
+      <location>http://ice6.somafm.com/sfinsf-128-mp3</location>
+      <location>http://ice1.somafm.com/sfinsf-128-mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>SomaFM SomaFM Live MP3 128</annotation>
+      <info>https://somafm.com/live</info>
+      <location>http://ice2.somafm.com/live-128-mp3</location>
+      <location>http://ice3.somafm.com/live-128-mp3</location>
+      <location>http://ice4.somafm.com/live-128-mp3</location>
+      <location>http://ice5.somafm.com/live-128-mp3</location>
+      <location>http://ice6.somafm.com/live-128-mp3</location>
+      <location>http://ice1.somafm.com/live-128-mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>SomaFM Specials MP3 128</annotation>
+      <info>https://somafm.com/specials</info>
+      <location>http://ice2.somafm.com/specials-128-mp3</location>
+      <location>http://ice3.somafm.com/specials-128-mp3</location>
+      <location>http://ice4.somafm.com/specials-128-mp3</location>
+      <location>http://ice5.somafm.com/specials-128-mp3</location>
+      <location>http://ice6.somafm.com/specials-128-mp3</location>
+      <location>http://ice1.somafm.com/specials-128-mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>SomaFM Sonic Universe MP3 128</annotation>
+      <info>https://somafm.com/sonicuniverse</info>
+      <location>http://ice2.somafm.com/sonicuniverse-128-mp3</location>
+      <location>http://ice3.somafm.com/sonicuniverse-128-mp3</location>
+      <location>http://ice4.somafm.com/sonicuniverse-128-mp3</location>
+      <location>http://ice5.somafm.com/sonicuniverse-128-mp3</location>
+      <location>http://ice6.somafm.com/sonicuniverse-128-mp3</location>
+      <location>http://ice1.somafm.com/sonicuniverse-128-mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>SomaFM Space Station MP3 128</annotation>
+      <info>https://somafm.com/spacestation</info>
+      <location>http://ice2.somafm.com/spacestation-128-mp3</location>
+      <location>http://ice3.somafm.com/spacestation-128-mp3</location>
+      <location>http://ice4.somafm.com/spacestation-128-mp3</location>
+      <location>http://ice5.somafm.com/spacestation-128-mp3</location>
+      <location>http://ice6.somafm.com/spacestation-128-mp3</location>
+      <location>http://ice1.somafm.com/spacestation-128-mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>SomaFM Suburbs Of Goa MP3 128</annotation>
+      <info>https://somafm.com/suburbsofgoa</info>
+      <location>http://ice2.somafm.com/suburbsofgoa-128-mp3</location>
+      <location>http://ice3.somafm.com/suburbsofgoa-128-mp3</location>
+      <location>http://ice4.somafm.com/suburbsofgoa-128-mp3</location>
+      <location>http://ice5.somafm.com/suburbsofgoa-128-mp3</location>
+      <location>http://ice6.somafm.com/suburbsofgoa-128-mp3</location>
+      <location>http://ice1.somafm.com/suburbsofgoa-128-mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>SomaFM Synphaera Radio MP3 128</annotation>
+      <info>https://somafm.com/synphaera</info>
+      <location>http://ice2.somafm.com/synphaera-128-mp3</location>
+      <location>http://ice3.somafm.com/synphaera-128-mp3</location>
+      <location>http://ice4.somafm.com/synphaera-128-mp3</location>
+      <location>http://ice5.somafm.com/synphaera-128-mp3</location>
+      <location>http://ice6.somafm.com/synphaera-128-mp3</location>
+      <location>http://ice1.somafm.com/synphaera-128-mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>SomaFM Thistle Radio MP3 128</annotation>
+      <info>https://somafm.com/thistle</info>
+      <location>http://ice2.somafm.com/thistle-128-mp3</location>
+      <location>http://ice3.somafm.com/thistle-128-mp3</location>
+      <location>http://ice4.somafm.com/thistle-128-mp3</location>
+      <location>http://ice5.somafm.com/thistle-128-mp3</location>
+      <location>http://ice6.somafm.com/thistle-128-mp3</location>
+      <location>http://ice1.somafm.com/thistle-128-mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>SomaFM Tiki Time MP3 128</annotation>
+      <info>https://somafm.com/tikitime</info>
+      <location>http://ice2.somafm.com/tikitime-128-mp3</location>
+      <location>http://ice3.somafm.com/tikitime-128-mp3</location>
+      <location>http://ice4.somafm.com/tikitime-128-mp3</location>
+      <location>http://ice5.somafm.com/tikitime-128-mp3</location>
+      <location>http://ice6.somafm.com/tikitime-128-mp3</location>
+      <location>http://ice1.somafm.com/tikitime-128-mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>SomaFM The Trip MP3 128</annotation>
+      <info>https://somafm.com/thetrip</info>
+      <location>http://ice2.somafm.com/thetrip-128-mp3</location>
+      <location>http://ice3.somafm.com/thetrip-128-mp3</location>
+      <location>http://ice4.somafm.com/thetrip-128-mp3</location>
+      <location>http://ice5.somafm.com/thetrip-128-mp3</location>
+      <location>http://ice6.somafm.com/thetrip-128-mp3</location>
+      <location>http://ice1.somafm.com/thetrip-128-mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>SomaFM Underground 80s MP3 128</annotation>
+      <info>https://somafm.com/u80s</info>
+      <location>http://ice2.somafm.com/u80s-128-mp3</location>
+      <location>http://ice3.somafm.com/u80s-128-mp3</location>
+      <location>http://ice4.somafm.com/u80s-128-mp3</location>
+      <location>http://ice5.somafm.com/u80s-128-mp3</location>
+      <location>http://ice6.somafm.com/u80s-128-mp3</location>
+      <location>http://ice1.somafm.com/u80s-128-mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>SomaFM Vaporwaves MP3 128</annotation>
+      <info>https://somafm.com/vaporwaves</info>
+      <location>http://ice2.somafm.com/vaporwaves-128-mp3</location>
+      <location>http://ice3.somafm.com/vaporwaves-128-mp3</location>
+      <location>http://ice4.somafm.com/vaporwaves-128-mp3</location>
+      <location>http://ice5.somafm.com/vaporwaves-128-mp3</location>
+      <location>http://ice6.somafm.com/vaporwaves-128-mp3</location>
+      <location>http://ice1.somafm.com/vaporwaves-128-mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Ibiza Sonica Radio MP3 256</annotation>
+      <info>http://ibizasonica.com/</info>
+      <location>http://ibizasonica.streaming-pro.com:8000/ibizasonica</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Springfield CB (was WQNA) MP3 128</annotation>
+      <info>https://scbradio.org/</info>
+      <location>http://streaming.live365.com/a38152</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Swindon 105.5 MP3 128</annotation>
+      <info>https://www.swindon1055.co.uk/</info>
+      <location>http://streaming.broadcastradio.com:10695/swindon1055</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Triple J NSW AAC 64</annotation>
+      <info>https://abc.net.au/listen/radio</info>
+      <location>http://live-radio01.mediahubaustralia.com/2TJW/aac</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Triple J NSW MP3 96</annotation>
+      <info>https://abc.net.au/listen/radio</info>
+      <location>http://live-radio01.mediahubaustralia.com/2TJW/mp3</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>The UK 1940s Radio Station MP3 128</annotation>
+      <info>https://1940sukradio.co.uk/</info>
+      <location>http://solid2.streamupsolutions.com:24929/stream/1/</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Vintage Obscura MP3 64</annotation>
+      <info>https://vintageobscura.net/</info>
+      <location>http://radio.vintageobscura.net/stream</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>Vocaloid Radio MP3 320</annotation>
+      <info>https://vocaloidradio.com/</info>
+      <location>http://vocaloid.radioca.st/stream</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>The Whip (Backland Radio) MP3 128</annotation>
+      <info>https://backlandradio.com/</info>
+      <location>http://65.108.198.245:7069/stream</location>
+    </track>
+  </trackList>
+</playlist>
