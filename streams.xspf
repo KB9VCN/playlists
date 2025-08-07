@@ -758,6 +758,13 @@
     <track>
       <title>?</title>
       <creator>?</creator>
+      <annotation>Laut.FM City Radio MP3 128</annotation>
+      <info>https://laut.fm/cityradio</info>
+      <location>http://stream.laut.fm/cityradio</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
       <annotation>Laut.FM Electro Swing MP3 128</annotation>
       <info>https://laut.fm/electro-swing</info>
       <location>http://stream.laut.fm/electro-swing</location>
