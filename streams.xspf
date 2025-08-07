@@ -68,6 +68,20 @@
     <track>
       <title>?</title>
       <creator>?</creator>
+      <annotation>KLBP-LP Long Beach CA AAC 64</annotation>
+      <info>https://www.klbp.org/</info>
+      <location>http://ice5.securenetsystems.net/KLBP</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
+      <annotation>KLBP-LP Long Beach CA MP3 128</annotation>
+      <info>https://www.klbp.org/</info>
+      <location>http://icecast.klbp.org:8000/stream</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
       <annotation>KMOX St Louis MO NewsRadio AAC 64</annotation>
       <info>https://www.audacy.com/kmox</info>
       <location>http://stream.abacast.net/direct/audacy-kmoxamaac-imc</location>
