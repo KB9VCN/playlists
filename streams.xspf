@@ -12,23 +12,23 @@
     <track>
       <title>?</title>
       <creator>?</creator>
-      <annotation>KBIA Columbia MO MP3 64</annotation>
+      <annotation>KBIA Columbia MO AAC 64</annotation>
       <info>https://www.kbia.org/</info>
-      <location>http://playerservices.streamtheworld.com/api/livestream-redirect/KBIAFM.mp3</location>
+      <location>http://das-sa43.cdnstream1.com/6062</location>
     </track>
     <track>
       <title>?</title>
       <creator>?</creator>
-      <annotation>KBIA-2 Classical MP3 64</annotation>
+      <annotation>KBIA-2 Classical AAC 256</annotation>
       <info>https://www.kbia.org/</info>
-      <location>http://playerservices.streamtheworld.com/api/livestream-redirect/KBIAHD2.mp3</location>
+      <location>http://das-sa43.cdnstream1.com/6063_256k.aac</location>
     </track>
     <track>
       <title>?</title>
       <creator>?</creator>
-      <annotation>KBIA-3 XPoNential MP3 64</annotation>
+      <annotation>KBIA-3 XPoNential AAC 256</annotation>
       <info>https://www.kbia.org/</info>
-      <location>http://playerservices.streamtheworld.com/api/livestream-redirect/KBIAHD3.mp3</location>
+      <location>http://das-sa43.cdnstream1.com/6064_256k.aac</location>
     </track>
     <track>
       <title>?</title>
