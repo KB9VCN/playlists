@@ -118,6 +118,14 @@
     <track>
       <title>?</title>
       <creator>?</creator>
+      <annotation>KUCI Irving CA MP3 320</annotation>
+      <info>https://kuci.org/wp/listen</info>
+      <!-- https://streamer.kuci.org:8088/web -->
+      <location>http://streamer.kuci.org:8000/web</location>
+    </track>
+    <track>
+      <title>?</title>
+      <creator>?</creator>
       <annotation>KWMU St Louis MO MP3 64</annotation>
       <info>https://www.stlpr.org/</info>
       <location>http://kwmu.streamguys1.com/kwmu1</location>
